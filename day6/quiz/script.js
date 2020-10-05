@@ -23,14 +23,6 @@ let question2 = {
   correctAnswer: "portugisiska"
 }
 
-let question3 = {
-  question: "vem har barn?",
-  a: "Sebbe",
-  b: "Margarida",
-  c: "Madalena",
-  correctAnswer: "Sebbe"
-}
-
 let questionArray = [question1, question2, question3]
 let input = document.querySelector("#input")
 let button = document.querySelector("#button")
